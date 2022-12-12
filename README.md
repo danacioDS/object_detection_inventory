@@ -1,0 +1,2 @@
+# object_detection_inventory
+project_ai
